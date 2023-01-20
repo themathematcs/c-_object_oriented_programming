@@ -24,7 +24,7 @@ int main()
 	employee1.name = "chriz";
 	employee1.company = "misrosoft";
 	employee1.age = 20;
-	//clalling our class method
+	//calling our class method
 	employee1.introduce();
 
 	
